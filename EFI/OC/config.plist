@@ -1158,17 +1158,17 @@
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>AGFx44kT</data>
+			<data>iMZjRkAA</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac18,1</string>
+			<string>iMac16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>XXXXXXXXXXXX</string>
+			<string>XXXXXXXXXXXXXX</string>
 			<key>SystemUUID</key>
-			<string>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
+			<string>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
