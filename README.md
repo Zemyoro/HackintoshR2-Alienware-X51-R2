@@ -50,7 +50,7 @@ This repository is meant for Alienware X51 R2 with a Intel Core i7-4790 CPU (Has
 - Debugging/verbose has been disabled
 
 #### To enable:
-- Add -v to the begging of `NVRAM -> Add -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 -> boot-args` value
+- Add -v to the beginning of `NVRAM -> Add -> 7C436110-AB2A-4BBB-A880-FE41995C9F82 -> boot-args` value
 - Set `Misc -> Debug -> AppleDebug` to `true`
 - Set `Misc -> Debug -> Target` to `67`
 
