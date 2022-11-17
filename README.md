@@ -15,8 +15,8 @@ This repository is meant for Alienware X51 R2 with a Intel Core i7-4790 CPU (Has
 - Check [here](#change-logs) for change logs
 
 ### Software
-- SMBIOS model: iMac18,1 (Releases include: iMac14,4 and iMac16,2)
-- macOS support: Ventura
+- SMBIOS model: iMac16,2 (Releases include: iMac18,1 and iMac14,4)
+- macOS support: Monterey
 - OpenCore version: 0.8.6
 
 ### Hardware
